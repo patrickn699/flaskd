@@ -14,7 +14,4 @@ def name(name):
     if request.method == 'GET':
         return '<html><body><h1>Hello'+ ' ' +name+','+ ' ' + 'welcome to this demo!</h1></body></html>'
 
-'''
-if __name__ == '__main__':
-    app.run()
-'''
+
