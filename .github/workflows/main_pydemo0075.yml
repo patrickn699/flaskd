@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pydemo0075'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BA7C1956A674DE69E70FF849A2A230C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_945AD07A73254C689782F920CDA72895 }}
